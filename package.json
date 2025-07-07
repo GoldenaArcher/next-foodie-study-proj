@@ -15,7 +15,9 @@
     "postcss": "^8.5.6",
     "react": "^18",
     "react-dom": "^18",
-    "tailwindcss": "^4.1.11"
+    "slugify": "^1.6.6",
+    "tailwindcss": "^4.1.11",
+    "xss": "^1.0.15"
   },
   "devDependencies": {
     "eslint": "^8",
